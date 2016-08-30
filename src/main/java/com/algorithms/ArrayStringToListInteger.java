@@ -1,4 +1,4 @@
-package com.algorithms.artezio;
+package com.algorithms;
 
 import java.util.ArrayList;
 import java.util.List;

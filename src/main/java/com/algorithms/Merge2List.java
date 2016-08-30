@@ -1,4 +1,4 @@
-package com.algorithms.expertsoft;
+package com.algorithms;
 import java.util.ArrayList;
 
 /**

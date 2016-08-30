@@ -1,4 +1,4 @@
-package com.algorithms.travel;
+package com.algorithms;
 
 import java.io.BufferedReader;
 import java.io.IOException;

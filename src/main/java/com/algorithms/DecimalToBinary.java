@@ -1,4 +1,4 @@
-package com.algorithms.travel;
+package com.algorithms;
 
 import java.util.Scanner;
 

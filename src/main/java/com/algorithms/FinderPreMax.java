@@ -1,4 +1,4 @@
-package com.algorithms.scand;
+package com.algorithms;
 
 /**
  *
